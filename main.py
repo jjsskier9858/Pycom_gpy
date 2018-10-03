@@ -117,3 +117,5 @@ if True:
     time.sleep(15)
     pmic_ce(False)
     get_charger_status()
+
+#change to test github
